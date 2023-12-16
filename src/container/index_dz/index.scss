@@ -81,3 +81,26 @@
 		background-color: #f7e8ef;
 	}
 }
+.head_info {
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 5px solid #121212;
+	margin-bottom: 12px;
+	font-size: 16px;
+	color: #121212;
+}
+.info__body {
+	display: flex;
+	justify-content: center;
+	width: 340;
+	height: 160;
+}
+.button__info-bot {
+	display: flex;
+	justify-content: center;
+	background-color: #F46F17;
+	color: #f7f7f7; 
+}
+.head_info_2 {
+	color: #E6E6E6;
+}
